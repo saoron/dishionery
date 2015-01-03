@@ -441,3 +441,6 @@ padding-bottom: 20px;
 color: #2680AC;
 background: #FFFFFF;
 }
+.accordion-item{
+border-bottom:0;
+}
