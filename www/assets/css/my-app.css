@@ -33,6 +33,8 @@ background-image: url(../img/bg.jpg);
 background-repeat: no-repeat;
 background-size: contain;
 background-position: bottom center;
+background-size: 100%;
+background-color: #3fb2ea;
 }
 .statusbar-overlay {
     background: #3fb2ea;
@@ -263,7 +265,7 @@ margin-left: -8px !important;
 font-size: 18px;
 }
 .bigBar{
-top: -74px;
+top: -73px;
 position: relative;
 height: 69px;
 }
@@ -377,6 +379,7 @@ margin: auto auto;
 padding: 0;
 position: relative;
 top: -37px;
+width: 101%;
 }
 .restDishes li{
 width:50%;
