@@ -45,7 +45,7 @@ margin-top: 50px;
 .inoutForm{
 text-align:center;
 }
-
+.noOverflow{overflow:hidden;}
 .inoutForm input{
 width:200px;
 height:40px;
@@ -191,6 +191,7 @@ padding: 0;
 margin-top: -34px;
 overflow: hidden;
 }
+
 .dishesList li{
 bottom: 26px;
 max-width: 1080px;
@@ -502,4 +503,54 @@ margin-left: 4px !important;
 }
 .lilWhite .fa-pencil{
 margin-left:8px !important
+}
+.logoMain{
+text-align: center;
+width: 100%;
+margin-right: 23px;
+}
+.logoMain img{
+max-height:20px;
+margin-top:10px;
+}
+.cats{
+list-style-type: none;
+margin: 0;
+width: 100%;
+padding-left: 10px;
+}
+.cats li{
+width:80px;
+height:80px;
+margin:5px 15px 0 0;
+border:1px solid #fff;
+display: inline-table;
+}
+.cats li img{
+max-width:30px;
+max-height:20px;
+}
+.cats li p{
+font-size:10px;
+color:#fff;
+}
+.catBlue{
+background-color:#44b7ef;
+}
+.cats li:active, .cats li:hover{
+opacity:0.8;
+}
+.navbar .center{
+color:#fff !important;
+text-shadow: 0px 1px #D2D2D2;
+}
+.rotate1{
+    -ms-transform: rotate(7deg); /* IE 9 */
+    -webkit-transform: rotate(7deg); /* Chrome, Safari, Opera */
+    transform: rotate(7deg);
+}
+.rotate2{
+    -ms-transform: rotate(-70deg); /* IE 9 */
+    -webkit-transform: rotate(-70deg); /* Chrome, Safari, Opera */
+    transform: rotate(-70deg);
 }
