@@ -278,7 +278,7 @@ padding-top: 3px!important;
 .restCount{
 float: left;
 margin-top: 22px;
-margin-left: -220px;
+margin-left: -258px;
 color:#1983b8 !important;
 }
 .restCount i{
@@ -557,17 +557,6 @@ text-shadow: 0px 1px #D2D2D2;
     transform: rotate(-70deg);
 }
 
-
-section {
-  display: -webkit-box;
-  display:-moz-box;
-  display:-ms-flexbox;
-  display:-webkit-flex;
-  display:flex;
-  flex-wrap:wrap;
-  -webkit-box-pack: space-between;
-  -moz-box-pack: space-between; 
-  -ms-flex-pack: space-between; 
-  -webkit-justify-content: space-between;
-  justify-content: space-between;
+.logoCenter img{
+  margin-right: 20px;
 }
