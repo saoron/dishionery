@@ -356,11 +356,11 @@ background-color: #f0f0f0;
 padding-left:0;
 }
 .accordion-item-content h1{
-font-size:14px;
+font-size:17px;
 text-align:left;
 }
 .accordion-item-content p{
-font-size:12px;
+font-size:15px;
 text-align:left;
 }
 .arrowRight{
@@ -512,6 +512,7 @@ margin-right: 23px;
 .logoMain img{
 max-height:20px;
 margin-top:10px;
+margin-right: -10px;
 }
 .cats{
 list-style-type: none;
@@ -560,3 +561,4 @@ text-shadow: 0px 1px #D2D2D2;
 .logoCenter img{
   margin-right: 20px;
 }
+.grey{opacity: 0.7;}
